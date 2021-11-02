@@ -11,4 +11,4 @@ There is a Postman profile in the root of this project that calls the various en
 
 > MovieApi.Nic.Claassen.postman_collection.json
 
-You will need to import this file into postman to test each endpoint.
+Import this file into postman to test each endpoint.
