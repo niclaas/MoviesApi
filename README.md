@@ -7,6 +7,8 @@ Live site deployed to:
 
 https://movieapinicclaassen20211102091821.azurewebsites.net/
 
-There is a Postman profile in the root of this project that calls the various endpoints to test against the specification.
+There is a Postman profile in the root of this project that calls the various endpoints to test against the three API endpoints in the specification.
 
 > MovieApi.Nic.Claassen.postman_collection.json
+
+You will need to import this file into postman to test each endpoint.
