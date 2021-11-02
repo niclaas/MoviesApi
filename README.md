@@ -1,5 +1,5 @@
 # MoviesApi
-Demonstrates a basic API that pulls movie metadata and stats from a csv files
+Demonstration of basic API that pulls movie metadata and stats from a set of csv files
 
 Built with Visual Studio 2019. To run locally, pull the repo and run with IIS Express.
 
